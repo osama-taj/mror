@@ -1,5 +1,8 @@
 # mror
-
+  
+  
+Traffic fines management system
+The system enables the registration and settlement of violations
 
 # screen shots
 
